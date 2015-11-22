@@ -9,16 +9,9 @@ At this repository you will find:
 * Sample luigi-monitor (Luigi central planner - the webapp).
 * Sample luigi worker.
 
-To run, publish luigi's default web port ( 8082 )
-
-    docker run -d -p 8082:8082 akursar/luigid
+To run, publish luigi's default web port ( 8082 ) use the commands bellow:
 
 And visit http://LUIGI_HOST:8082/
-
-
-
-
-
 	
 It's uses [Crane](https://github.com/michaelsauter/crane) to easily deploy the docker containers.
 
