@@ -1,13 +1,13 @@
 # Minimal docker image for running [Luigi](http://luigi.readthedocs.org/en/latest/index.html)
 
-- Built on [baseimage-docker](http://phusion.github.io/baseimage-docker/)
+Built on [baseimage-docker](http://phusion.github.io/baseimage-docker/) 
 
-Reference: https://github.com/akursar/docker-luigid
+Reference: [docker-luigid](https://github.com/akursar/docker-luigid)
 
 
 At this repository you will find:
-1) sample luigi-monitor (Luigi central planner - the webapp).
-2) Sample luigi worker.
+* Sample luigi-monitor (Luigi central planner - the webapp).
+* Sample luigi worker.
 
 To run, publish luigi's default web port ( 8082 )
 
