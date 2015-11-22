@@ -7,14 +7,14 @@ At this repository you will find:
 * Sample luigi-monitor (Luigi central planner - the webapp).
 * Sample luigi worker.
 
-To run, publish luigi's default web port ( 8082 ) use the commands bellow:
+To run, publish luigi's default web port ( 8082 ) use the commands bellow,
 
 And visit http://LUIGI_HOST:8082/
 	
-It's uses [Crane](https://github.com/michaelsauter/crane) to easily deploy the docker containers.
+It's using [Crane](https://github.com/michaelsauter/crane) to easily deploy the docker containers on local developer machine.
 
 
-Use the following cli commands:
+Use the following CLI:
 
 ```bash
 
