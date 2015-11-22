@@ -1,7 +1,5 @@
 # Minimal docker image for running [Luigi](http://luigi.readthedocs.org/en/latest/index.html)
 
-Built on [baseimage-docker](http://phusion.github.io/baseimage-docker/) 
-
 Reference: [docker-luigid](https://github.com/akursar/docker-luigid)
 
 
