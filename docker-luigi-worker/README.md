@@ -1,4 +1,4 @@
-# [Luigi](http://luigi.readthedocs.org/en/latest/index.html) worker samle
+# [Luigi](http://luigi.readthedocs.org/en/latest/index.html) worker sample
 
 
 Sample Luigi worker.
