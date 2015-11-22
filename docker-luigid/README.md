@@ -1,6 +1,5 @@
-# Minimal docker image for running [Luigi](http://luigi.readthedocs.org/en/latest/index.html)
+# Minimal docker image for running [Luigid](http://luigi.readthedocs.org/en/latest/index.html)
 
-- Built on [baseimage-docker](http://phusion.github.io/baseimage-docker/)
 
 	using the following command docker build -t luigid .
 
