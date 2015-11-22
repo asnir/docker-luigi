@@ -1,6 +1,6 @@
 # Minimal docker image for running [Luigid](http://luigi.readthedocs.org/en/latest/index.html)
 
-use the following command:
+use the following command to build the image:
 
     docker build -t luigid .
     
