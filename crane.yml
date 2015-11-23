@@ -3,7 +3,7 @@ containers:
   luigi-monitor:
     build:
       context: "docker-luigid"
-    image: luigid
+    image: luigid:latest
     run:
       publish: ["8082:8082"]
       tty: true
@@ -12,7 +12,7 @@ containers:
   luigi-worker:
     build:
       context: "docker-luigi-worker"
-    image: luigi-worker
+    image: luigi-worker:latest
     run:
       link: ["luigi-monitor:luigi-monitor"]
       detach: true
